@@ -1,0 +1,14 @@
+com\hqj\constant\MessageConstant.class
+com\hqj\entity\Result.class
+com\hqj\pojo\Menu.class
+com\hqj\pojo\User.class
+com\hqj\pojo\Member.class
+com\hqj\pojo\OrderSetting.class
+com\hqj\pojo\CheckGroup.class
+com\hqj\pojo\Permission.class
+com\hqj\pojo\Order.class
+com\hqj\pojo\Setmeal.class
+com\hqj\entity\PageResult.class
+com\hqj\entity\QueryPageBean.class
+com\hqj\pojo\CheckItem.class
+com\hqj\pojo\Role.class
